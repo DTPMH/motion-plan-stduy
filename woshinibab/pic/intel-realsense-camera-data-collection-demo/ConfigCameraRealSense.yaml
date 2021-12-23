@@ -1,0 +1,9 @@
+%YAML:1.0
+---
+depth_width: 1280
+depth_height: 720
+infrared_width: 1280
+infrared_height: 720
+color_width: 640
+color_height: 480
+camera_fps: 25
